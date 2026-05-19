@@ -1,59 +1,49 @@
-<h1 align="center">Hey there, I'm Lucas Andrade! 👋</h1>
-<h3 align="center">Tech Lead · Backend Engineer · Consultant</h3>
+<h1 align="center">Lucas Andrade</h1>
+<h3 align="center">Head of Technology · Backend Engineer · Software Consultant</h3>
 
 <p align="center">
-  <a href="README.md">🇧🇷 Português</a> &nbsp;|&nbsp;
-  <a href="README.en.md">🇺🇸 English</a>
+  <a href="README.md">PT-BR</a> &nbsp;|&nbsp;
+  <a href="README.en.md">EN</a>
 </p>
 
 ---
 
-## 👨‍💻 About me
+### About me
 
-- 🔭 Currently working on **tech team management and software development consulting**
-- 🌱 Learning about **generative AI, LLMs and Claude API integration**
-- 💬 Ask me about **backend architecture, .NET, Node.js, cloud (AWS/GCP) and technical leadership**
-- 📫 Reach me at: **l.andrade@oliv-e.health**
-- ⚡ Fun fact: I enjoy deep engineering discussions as much as a good cup of coffee
+- Currently leading technology teams and providing software development consulting
+- Deepening knowledge in generative AI, LLMs and Claude API integration
+- Available to discuss backend architecture, .NET, Node.js, cloud (AWS/GCP) and technical leadership
+- Contact: lucasab94@gmail.com
 
 ---
 
-## 🛠️ Technologies & Tools
+### Technologies & Tools
 
 <p align="left">
-  <!-- Languages -->
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40" title="C#"/>
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="40" height="40" title=".NET Core"/>
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" title="TypeScript"/>
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" title="JavaScript"/>
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" title="HTML5"/>
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" title="CSS3"/>
-
-  <!-- Frameworks / Runtimes -->
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" title="Node.js"/>
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" width="40" height="40" title="NestJS"/>
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" title="React"/>
-
-  <!-- Databases -->
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" title="MySQL"/>
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" title="MongoDB"/>
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="40" height="40" title="Redis"/>
-
-  <!-- Cloud & Infra -->
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40" title="AWS"/>
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40" height="40" title="GCP"/>
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" title="Docker"/>
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-original.svg" width="40" height="40" title="Kubernetes"/>
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" width="40" height="40" title="RabbitMQ"/>
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" width="40" height="40" title="Kafka"/>
-
-  <!-- Observability / BI -->
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" width="40" height="40" title="Grafana"/>
 </p>
 
 ---
 
-## 🤝 Contact
+### Contact
 
 <p align="left">
   <a href="https://www.linkedin.com/in/lucasandradeb" target="_blank">
@@ -62,14 +52,14 @@
   <a href="https://www.instagram.com/lucasandrade_b" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-lucasandrade__b-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-  <a href="mailto:l.andrade@oliv-e.health">
-    <img src="https://img.shields.io/badge/Email-l.andrade%40oliv--e.health-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <a href="mailto:lucasab94@gmail.com">
+    <img src="https://img.shields.io/badge/Email-lucasab94%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-## 📊 GitHub Stats
+### GitHub Stats
 
 <p align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=lucasandradeb&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true"/>
@@ -78,6 +68,6 @@
 
 ---
 
-## 🐍 Contribution Graph
+### Contribution Graph
 
 ![Snake animation](https://github.com/lucasandradeb/lucasandradeb/blob/output/github-contribution-grid-snake.svg)
