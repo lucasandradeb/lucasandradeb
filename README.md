@@ -49,9 +49,6 @@
   <a href="https://www.linkedin.com/in/lucasandradeb" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-lucasandradeb-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://www.instagram.com/lucasandrade_b" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-lucasandrade__b-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
   <a href="mailto:lucasab94@gmail.com">
     <img src="https://img.shields.io/badge/Email-lucasab94%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
